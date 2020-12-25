@@ -56,7 +56,7 @@
 			$mail ->Port = '587';
 			$mail ->SMTPAuth = true;
 			$mail ->Username = 'davidsarka242@gmail.com';
-			$mail ->Password = 'Davido2020';
+			$mail ->Password = 'my password';
 			$mail ->SMTPSecure = '';
 			$mail ->From = ('davidsarka242@gmail.com, OnlineMD Dev World');
 			$mail ->FromName = $_POST["name"];
